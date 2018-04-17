@@ -10,6 +10,6 @@ Pod::Spec.new do |s|
   s.author             = { "null88888" => "798245133@qq.com" }
   s.source       = { :git => "https://github.com/null88888/DJAzmhydd.git", :tag => "#{s.version}" }
 
-  s.source_files  = "Classes/*.{h,m}"
+  s.source_files  = "Classes"
 
 end
